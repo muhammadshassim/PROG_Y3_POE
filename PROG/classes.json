@@ -1,0 +1,232 @@
+[
+  {
+    "ID": "000",
+    "Title": "Computer science, information and general works.",
+    "Categories" : [
+      {
+        "ID": "000",
+        "SubCategories": [
+          {
+            "ID": "000",
+            "Title": "Computer Science, Information & General Works"
+          },
+          {
+            "ID": "001",
+            "Title": "Knowledge"
+          },
+          {
+            "ID": "002",
+            "Title": "The book & its parts"
+          },
+          {
+            "ID": "003",
+            "Title": "Systems"
+          },
+          {
+            "ID": "004",
+            "Title": "Data processing & computer science"
+          },
+          {
+            "ID": "005",
+            "Title": "Computer programming, programs & data"
+          },
+          {
+            "ID": "006",
+            "Title": "Special computer methods"
+          }
+        ] 
+      },
+      {
+        "ID": "010",
+        "SubCategories": [
+          {
+            "ID": "010",
+            "Title": " Bibliography"
+          },
+          {
+            "ID": "011",
+            "Title": "Bibliographies"
+          },
+          {
+            "ID": "012",
+            "Title": "Bibliographies of individuals"
+          },
+          {
+            "ID": "014",
+            "Title": "Bibliographies of anonymous and pseudonymous works"
+          },
+          {
+            "ID": "015",
+            "Title": "Bibliographies of works from specific places"
+          },
+          {
+            "ID": "016",
+            "Title": "Bibliographies of works on specific subjects"
+          },
+          {
+            "ID": "017",
+            "Title": "General subject catalogs"
+          },
+          {
+            "ID": "018",
+            "Title": "Catalogs arranged by author"
+          },
+          {
+            "ID": "019",
+            "Title": "Dictionary catalogs"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ID": "100",
+    "Title": "Philosophy and psychology.",
+    "Categories" : [
+      {
+        "ID": "100",
+        "SubCategories": [
+          {
+            "ID": "100",
+            "Title": "Philosophy and psychology"
+          },
+          {
+            "ID": "101",
+            "Title": "Theory of philosophy"
+          },
+          {
+            "ID": "102",
+            "Title": "Miscellany"
+          },
+          {
+            "ID": "103",
+            "Title": "Dictionaries and encyclopedias"
+          },
+          {
+            "ID": "105",
+            "Title": "Serial publications"
+          },
+          {
+            "ID": "106",
+            "Title": "Organizations and management"
+          },
+          {
+            "ID": "107",
+            "Title": "Education, research, related topics of philosophy"
+          },
+          {
+            "ID": "108",
+            "Title": "Kinds of persons"
+          },
+          {
+            "ID": "109",
+            "Title": "Historical, geographic, persons treatment"
+          }
+          
+        ]
+      }
+    ]
+  },
+  {
+    "ID": "200",
+    "Title": "Religion.",
+    "Categories" : [
+      {
+        "ID": "200",
+        "SubCategories": [
+          {
+            "ID": "200",
+            "Title": "Religion"
+          },
+          {
+            "ID": "201",
+            "Title": "Religious mythology"
+          },
+          {
+            "ID": "202",
+            "Title": "Doctrines"
+          },
+          {
+            "ID": "203",
+            "Title": "Public worship and other practices"
+          },
+          {
+            "ID": "204",
+            "Title": "Religious experience, life, practice"
+          },
+          {
+            "ID": "205",
+            "Title": "Religious ethics"
+          },
+          {
+            "ID": "206",
+            "Title": "Leaders and organization"
+          },
+          {
+            "ID": "207",
+            "Title": "Missions and religious education"
+          },
+          {
+            "ID": "208",
+            "Title": "Sources"
+          },
+          {
+            "ID": "209",
+            "Title": "Sects and reform movements"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ID": "300",
+    "Title": "Social sciences.",
+    "Categories" : [
+      {
+        "ID": "300",
+        "SubCategories": [
+          {
+            "ID": "300",
+            "Title": "Social sciences"
+          },
+          {
+            "ID": "301",
+            "Title": "Sociology and anthropology"
+          },
+          {
+            "ID": "302",
+            "Title": "Social interaction"
+          },
+          {
+            "ID": "303",
+            "Title": "Social processes"
+          },
+          {
+            "ID": "304",
+            "Title": "Factors affecting social behavior"
+          },
+          {
+            "ID": "305",
+            "Title": "Groups of people"
+          },
+          {
+            "ID": "306",
+            "Title": "Culture and institutions"
+          },
+          {
+            "ID": "307",
+            "Title": "Communities"
+          },
+          {
+            "ID": "308",
+            "Title": "Polygraphy"
+          },
+          {
+            "ID": "309",
+            "Title": "History of sociology"
+          }
+        ]
+      }
+    ]
+  }
+]

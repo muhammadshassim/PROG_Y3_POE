@@ -1,0 +1,146 @@
+.ReplaceBooks   { display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+
+}
+
+.Card {
+    display: flex;
+    flex-direction: row;
+    height: 700px;
+    width: 1200px;
+    border-radius: 10px;
+    border: 2px solid darkred;
+    box-shadow: 6px 4px 4px rgba(0, 0, 0, 0.055),
+    20px 13px 13px rgba(0, 0, 0, 0.036),
+    90px 55px 55px rgba(0, 0, 0, 0.18); ;
+}
+
+.colOne {
+    display: flex;
+    flex-direction: column;
+    background-color: darkgreen;
+    width: 30%;
+    height: 100%;
+}
+
+.colOneUpper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 50%;
+}
+
+.colOneUpper > button {
+    height: 150px;
+    width: 300px;
+    font-size: 32px;
+    font-weight: bolder;
+    border: 2px solid darkorange;
+    background-color: lightgreen;
+    color: white;
+}
+
+.colOneLower {
+    display: flex;
+    flex-direction: column;
+    height: 50%;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    overflow-wrap: break-word;
+}
+
+
+.colOneLower > h3 {
+    color: white;
+    font-size: 32px;
+}
+
+.colOneLower > h1 {
+    color: white;
+    font-weight: bolder;
+}
+
+/** COLUMN TWO **/
+.colTwo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: darkorange;
+    width: 40%;
+    height: 100%;
+}
+
+.colTwo > .selectorButtons {
+    display: flex;
+    flex-direction: row;
+    height: 10%;
+}
+
+.colTwo > .selectorButtons > .one {
+    height: 60px;
+    width: 200px;
+    font-size: 18px;
+    font-weight: bolder;
+    border: 2px solid darkorange;
+    background-color: lightgreen;
+    color: white;
+    margin: 0 3px;
+}
+
+.colTwo > .selectorButtons > .two {
+    height: 60px;
+    width: 200px;
+    font-size: 18px;
+    font-weight: bolder;
+    border: 2px solid darkorange;
+    background-color: lightgreen;
+    color: white;
+    margin: 0 3px;
+}
+
+.colTwo > .list {
+    height: 86%;
+    width: 400px;
+    border: 2px dotted darkcyan;
+    margin: 10px 15px;
+    overflow: auto;
+}
+
+.colTwo > button {
+    height: 150px;
+    width: 300px;
+    font-size: 32px;
+    font-weight: bolder;
+    border: 2px solid darkorange;
+    background-color: lightgreen;
+    color: white;
+    margin: 10px 20px;
+}
+
+.eachBook {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 26px;
+    font-weight: bolder;
+    margin: 2px 4px;
+    border: 2px solid darkcyan;
+    background-color: lightgreen;
+    height: 53px;
+}
+
+.selected {
+    background-color: darkred;
+    color: white;
+    border: 3px solid black;
+}

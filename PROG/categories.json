@@ -1,0 +1,49 @@
+{
+  "000" : {
+    "000": {
+      "000": "Computer Science, Information & General Works",
+      "001": "Knowledge",
+      "002": "The book & its parts",
+      "003": "Systems",
+      "004": "Data processing & computer science",
+      "005": "Computer programming, programs & data",
+      "006": "Special computer methods"
+    },
+    "010": {
+      "010": "Bibliography",
+        "011": "Bibliographies",
+        "012": "Biographies of individuals",
+        "013": "Unassigned",
+        "014": "Bibliographies of anonymous & pseudonymous works",
+        "015": "Bibliographies of works from specific places",
+        "016": "Bibliographies of works on specific subjects",
+        "017": "General subject catalogs",
+        "018": "Catalogs arranged by author",
+        "019": "Dictionary catalogs"
+    },
+    "020": {
+      "020": "Library & information sciences",
+      "021": "Library relationships",
+      "022": "Administration of physical plant",
+      "023": "Personnel management",
+      "024": "Unassigned",
+      "025": "Library operations",
+      "026": "Library for special subjects",
+      "027": "General libraries",
+      "028": "Reading and use of other information media",
+      "029": "Unassigned"
+    },
+    "030": {
+      "030": "General encyclopedic works",
+      "031": "Encyclopedias in American English",
+      "032": "Encyclopedias in English",
+      "033": "Encyclopedias in other Germanic languages",
+      "034": "Encyclopedias in French, Occitan & Catalan",
+      "035": "Encyclopedias in Italian, Romanian & related languages",
+      "036": "Encyclopedias in Spanish & Portuguese",
+      "037": "Encyclopedias in Slavic languages",
+      "038": "Encyclopedias in Scandinavian languages",
+      "039": "Encyclopedias in other languages"
+    }
+  }
+}

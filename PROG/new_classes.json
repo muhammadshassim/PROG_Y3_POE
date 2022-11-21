@@ -1,0 +1,640 @@
+[
+  {
+    "ID": "000",
+    "Title": "Computer science, information and general works.",
+    "Categories": [
+      {
+        "ID": "000",
+        "SubCategories": [
+          {
+            "ID": "000",
+            "Title": "Computer Science, Information & General Works"
+          },
+          {
+            "ID": "001",
+            "Title": "Knowledge"
+          },
+          {
+            "ID": "002",
+            "Title": "The book & its parts"
+          },
+          {
+            "ID": "003",
+            "Title": "Systems"
+          },
+          {
+            "ID": "004",
+            "Title": "Data processing & computer science"
+          },
+          {
+            "ID": "005",
+            "Title": "Computer programming, programs & data"
+          },
+          {
+            "ID": "006",
+            "Title": "Special computer methods"
+          }
+        ]
+      },
+      {
+        "ID": "010",
+        "SubCategories": [
+          {
+            "ID": "010",
+            "Title": " Bibliography"
+          },
+          {
+            "ID": "011",
+            "Title": "Bibliographies"
+          },
+          {
+            "ID": "012",
+            "Title": "Bibliographies of individuals"
+          },
+          {
+            "ID": "014",
+            "Title": "Bibliographies of anonymous and pseudonymous works"
+          },
+          {
+            "ID": "015",
+            "Title": "Bibliographies of works from specific places"
+          },
+          {
+            "ID": "016",
+            "Title": "Bibliographies of works on specific subjects"
+          },
+          {
+            "ID": "017",
+            "Title": "General subject catalogs"
+          },
+          {
+            "ID": "018",
+            "Title": "Catalogs arranged by author"
+          },
+          {
+            "ID": "019",
+            "Title": "Dictionary catalogs"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ID": "100",
+    "Title": "Philosophy and psychology.",
+    "Categories": [
+      {
+        "ID": "100",
+        "SubCategories": [
+          {
+            "ID": "100",
+            "Title": "Philosophy and psychology"
+          },
+          {
+            "ID": "101",
+            "Title": "Theory of philosophy"
+          },
+          {
+            "ID": "102",
+            "Title": "Miscellany"
+          },
+          {
+            "ID": "103",
+            "Title": "Dictionaries and encyclopedias"
+          },
+          {
+            "ID": "105",
+            "Title": "Serial publications"
+          },
+          {
+            "ID": "106",
+            "Title": "Organizations and management"
+          },
+          {
+            "ID": "107",
+            "Title": "Education, research, related topics of philosophy"
+          },
+          {
+            "ID": "108",
+            "Title": "Kinds of persons"
+          },
+          {
+            "ID": "109",
+            "Title": "Historical, geographic, persons treatment"
+          }
+
+        ]
+      }
+    ]
+  },
+  {
+    "ID": "200",
+    "Title": "Religion.",
+    "Categories": [
+      {
+        "ID": "200",
+        "SubCategories": [
+          {
+            "ID": "200",
+            "Title": "Religion"
+          },
+          {
+            "ID": "201",
+            "Title": "Religious mythology"
+          },
+          {
+            "ID": "202",
+            "Title": "Doctrines"
+          },
+          {
+            "ID": "203",
+            "Title": "Public worship and other practices"
+          },
+          {
+            "ID": "204",
+            "Title": "Religious experience, life, practice"
+          },
+          {
+            "ID": "205",
+            "Title": "Religious ethics"
+          },
+          {
+            "ID": "206",
+            "Title": "Leaders and organization"
+          },
+          {
+            "ID": "207",
+            "Title": "Missions and religious education"
+          },
+          {
+            "ID": "208",
+            "Title": "Sources"
+          },
+          {
+            "ID": "209",
+            "Title": "Sects and reform movements"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ID": "300",
+    "Title": "Social sciences.",
+    "Categories": [
+      {
+        "ID": "300",
+        "SubCategories": [
+          {
+            "ID": "300",
+            "Title": "Social sciences"
+          },
+          {
+            "ID": "301",
+            "Title": "Sociology and anthropology"
+          },
+          {
+            "ID": "302",
+            "Title": "Social interaction"
+          },
+          {
+            "ID": "303",
+            "Title": "Social processes"
+          },
+          {
+            "ID": "304",
+            "Title": "Factors affecting social behavior"
+          },
+          {
+            "ID": "305",
+            "Title": "Groups of people"
+          },
+          {
+            "ID": "306",
+            "Title": "Culture and institutions"
+          },
+          {
+            "ID": "307",
+            "Title": "Communities"
+          },
+          {
+            "ID": "308",
+            "Title": "Polygraphy"
+          },
+          {
+            "ID": "309",
+            "Title": "History of sociology"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ID": "400",
+    "Title": "Language",
+    "Categories": [
+      {
+        "ID": "400",
+        "SubCategories": [
+          {
+            "ID": "400",
+            "Title": "Languages"
+          },
+          {
+            "ID": "401",
+            "Title": "Philosophy and theory, international languages"
+          },
+          {
+            "ID": "402",
+            "Title": "Miscellany"
+          },
+          {
+            "ID": "403",
+            "Title": "Dictionaries, encyclopedias, concordances"
+          },
+          {
+            "ID": "404",
+            "Title": "Special topics of language"
+          },
+          {
+            "ID": "405",
+            "Title": "Serial publications"
+          },
+          {
+            "ID": "406",
+            "Title": "Organizations and management"
+          },
+          {
+            "ID": "407",
+            "Title": "Education, research, related topics"
+          },
+          {
+            "ID": "408",
+            "Title": "Groups of people"
+          },
+          {
+            "ID": "409",
+            "Title": "Geographic treatment and biography"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ID": "410",
+    "Title": "Linguistics",
+    "Categories": [
+      {
+        "ID": "410",
+        "SubCategories": [
+          {
+            "ID": "410",
+            "Title": "Linguistics"
+          },
+          {
+            "ID": "411",
+            "Title": "Writing systems of standard forms of languages"
+          },
+          {
+            "ID": "412",
+            "Title": "Etymology of standard forms of languages"
+          },
+          {
+            "ID": "413",
+            "Title": "Dictionaries of standard forms of languages"
+          },
+          {
+            "ID": "414",
+            "Title": "Phonology and phonetics of standard forms of languages"
+          },
+          {
+            "ID": "415",
+            "Title": "Grammar of standard forms of languages"
+          },
+          {
+            "ID": "416",
+            "Title": "Prosody"
+          },
+          {
+            "ID": "417",
+            "Title": "Dialectology and historical linguistics"
+          },
+          {
+            "ID": "418",
+            "Title": "Prescriptive linguistics"
+          },
+          {
+            "ID": "419",
+            "Title": "Sign languages"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ID": "500",
+    "Title": "Science",
+    "Categories": [
+      {
+        "ID": "500",
+        "SubCategories": [
+          {
+            "ID": "500",
+            "Title": "Natural sciences and mathematics"
+          },
+          {
+            "ID": "501",
+            "Title": "Philosophy and theory"
+          },
+          {
+            "ID": "502",
+            "Title": "Miscellany"
+          },
+          {
+            "ID": "503",
+            "Title": "Dictionaries, encyclopedias, concordances"
+          },
+          {
+            "ID": "504",
+            "Title": "Not in use"
+          },
+          {
+            "ID": "505",
+            "Title": "Serial publications"
+          },
+          {
+            "ID": "506",
+            "Title": "Organizations and management"
+          },
+          {
+            "ID": "507",
+            "Title": "Education, research, related topics"
+          },
+          {
+            "ID": "508",
+            "Title": "Natural history"
+          },
+          {
+            "ID": "509",
+            "Title": "History, geographic treatment, biography"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ID": "530",
+    "Title": "Physics",
+    "Categories": [
+      {
+        "ID": "530",
+        "SubCategories": [
+          {
+            "ID": "530",
+            "Title": "Physics"
+          },
+          {
+            "ID": "531",
+            "Title": "Classical mechanics"
+          },
+          {
+            "ID": "532",
+            "Title": "Fluid mechanics"
+          },
+          {
+            "ID": "533",
+            "Title": "Pneumatics"
+          },
+          {
+            "ID": "534",
+            "Title": "Sound and related vibrations"
+          },
+          {
+            "ID": "535",
+            "Title": "Light and related radiation"
+          },
+          {
+            "ID": "536",
+            "Title": "Heat"
+          },
+          {
+            "ID": "537",
+            "Title": "Electricity and electronics"
+          },
+          {
+            "ID": "538",
+            "Title": "Magnetism"
+          },
+          {
+            "ID": "539",
+            "Title": "Modern physics"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ID": "600",
+    "Title": "Technology",
+    "Categories": [
+      {
+        "ID": "600",
+        "SubCategories": [
+          {
+            "ID": "600",
+            "Title": "Technology"
+          },
+          {
+            "ID": "601",
+            "Title": "Philosophy and theory"
+          },
+          {
+            "ID": "602",
+            "Title": "Miscellany"
+          },
+          {
+            "ID": "603",
+            "Title": "Dictionaries, encyclopedias, concordances"
+          },
+          {
+            "ID": "604",
+            "Title": "Technical drawing, hazardous materials technology; groups of people"
+          },
+          {
+            "ID": "605",
+            "Title": "Serial publications"
+          },
+          {
+            "ID": "606",
+            "Title": "Organizations"
+          },
+          {
+            "ID": "607",
+            "Title": "Education, research, related topics"
+          },
+          {
+            "ID": "608",
+            "Title": "Patents"
+          },
+          {
+            "ID": "609",
+            "Title": "History, geographic treatment, biography"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ID": "700",
+    "Title": "Arts",
+    "Categories": [
+      {
+        "ID": "700",
+        "SubCategories": [
+          {
+            "ID": "700",
+            "Title": "Arts"
+          },
+          {
+            "ID": "701",
+            "Title": "Philosophy and theory of fine and decorative arts"
+          },
+          {
+            "ID": "702",
+            "Title": "Miscellany of fine and decorative arts"
+          },
+          {
+            "ID": "703",
+            "Title": "Dictionaries, encyclopedias, concordances of fine and decorative arts"
+          },
+          {
+            "ID": "704",
+            "Title": "pecial topics in fine and decorative arts"
+          },
+          {
+            "ID": "705",
+            "Title": "Serial publications of fine and decorative arts"
+          },
+          {
+            "ID": "706",
+            "Title": "Organizations and management of fine and decorative arts"
+          },
+          {
+            "ID": "707",
+            "Title": "Education, research, related topics of fine and decorative arts"
+          },
+          {
+            "ID": "708",
+            "Title": "Galleries, museums, private collections of fine and decorative arts"
+          },
+          {
+            "ID": "709",
+            "Title": "History, geographic treatment, biography"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ID": "800",
+    "Title": "Literature, rhetoric and criticism",
+    "Categories": [
+      {
+        "ID": "800",
+        "SubCategories": [
+          {
+            "ID": "800",
+            "Title": "Literature (Belles-lettres) and rhetoric"
+          },
+          {
+            "ID": "801",
+            "Title": "Philosophy and theory"
+          },
+          {
+            "ID": "802",
+            "Title": "Miscellany"
+          },
+          {
+            "ID": "803",
+            "Title": "Dictionaries, encyclopedias, concordances"
+          },
+          {
+            "ID": "804",
+            "Title": "Not in Use"
+          },
+          {
+            "ID": "805",
+            "Title": "Serial publications"
+          },
+          {
+            "ID": "806",
+            "Title": "Organizations and management"
+          },
+          {
+            "ID": "807",
+            "Title": "Education, research, related topics"
+          },
+          {
+            "ID": "808",
+            "Title": "Rhetoric and collections of literary texts from more than two literatures"
+          },
+          {
+            "ID": "809",
+            "Title": "History, description, critical appraisal of more than two literatures"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ID": "900",
+    "Title": "History",
+    "Categories": [
+      {
+        "ID": "900",
+        "SubCategories": [
+          {
+            "ID": "900",
+            "Title": "History, geography, and auxiliary disciplines"
+          },
+          {
+            "ID": "901",
+            "Title": "Philosophy and theory of history"
+          },
+          {
+            "ID": "902",
+            "Title": "Miscellany of history"
+          },
+          {
+            "ID": "903",
+            "Title": "Dictionaries, encyclopedias, concordances of history"
+          },
+          {
+            "ID": "904",
+            "Title": "Collected accounts of events"
+          },
+          {
+            "ID": "905",
+            "Title": "Serial publications of history"
+          },
+          {
+            "ID": "906",
+            "Title": "Organizations and management of history"
+          },
+          {
+            "ID": "907",
+            "Title": "Education, research, related topics of history"
+          },
+          {
+            "ID": "908",
+            "Title": "History with respect to groups of people"
+          },
+          {
+            "ID": "909",
+            "Title": "World history"
+          }
+        ]
+      }
+    ]
+  }
+]
